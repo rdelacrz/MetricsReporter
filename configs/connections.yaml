@@ -1,0 +1,12 @@
+JiraGTS:
+  username: <omitted - proprietary>
+  password: <omitted - proprietary>
+  ip: <omitted - proprietary>
+  port: <omitted - proprietary>
+  database: <omitted - proprietary>
+  
+ClearQuest:
+  username: <omitted - proprietary>
+  password: <omitted - proprietary>
+  server: <omitted - proprietary>
+  database: <omitted - proprietary>
